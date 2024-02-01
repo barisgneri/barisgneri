@@ -14,8 +14,8 @@
 
 <br>
 
-<p align="center">🔭 I’m currently working on Neon Apps</p>
-<p align="center">🌱 I’m currently learning Kotlin & Android Development</p>
+<p align="center">🔭 I’m currently working on Kotlin & Java</p>
+<p align="center">🌱 I’m currently learning Jetpack Compose & Flutter</p>
 
 <h2 align="center">
   <a href="https://github.com/barisgneri">
